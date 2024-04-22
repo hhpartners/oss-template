@@ -5,3 +5,7 @@ Source: https://github.com/hhpartners/oss-template
 Files: README.md
 Copyright: 2024 HH Partners Oy <info@hhpartners.fi>
 License: Apache-2.0
+
+Files: CONTRIBUTING.md
+Copyright: 2024 HH Partners Oy <info@hhpartners.fi>
+License: Apache-2.0
