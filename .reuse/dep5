@@ -1,0 +1,7 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: oss-template
+Source: https://github.com/hhpartners/oss-template
+
+Files: README.md
+Copyright: 2024 HH Partners Oy <info@hhpartners.fi>
+License: Apache-2.0
